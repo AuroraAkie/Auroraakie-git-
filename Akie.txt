@@ -1,7 +1,3 @@
-<<<<<<< Updated upstream
+
 it is a second change test
  second change
-
-=======
-你好厉害a
->>>>>>> Stashed changes
